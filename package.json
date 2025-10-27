@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "prettier": "^3.6.2"
+  },
+
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
+}
